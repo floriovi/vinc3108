@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-
 
 I'm an aspiring Software Developer currently looking for an apprenticeship/junior position after having completed a 6 week coding bootcamp with Generation UK and WhiteHat GB. Lately, I've been building Vanilla JS projects, learning how to build a fully interactive website. I am planning to learn React next. 
 
