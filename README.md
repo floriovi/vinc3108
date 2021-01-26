@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an aspiring Software Developer currently looking for an apprenticeship/junior position after having completed a 6 week coding bootcamp with Generation UK and WhiteHat GB. Lately, I've been building Vanilla JS projects, learning how to build a fully interactive web-application. I am planning to learn React next. 
+I'm a Software Engineer apprentice at Elsevier training with Makers. I have previously completed a 6 week coding bootcamp with Generation UK and WhiteHat GB and am now on a 12 week Makers bootcamp. Lately, I've been building Vanilla JS and Ruby projects, learning how to build a fully interactive web-application. I am planning to learn React next. 
 
 📔 My most recent project is this [Task Planner](https://vinc3108.github.io/Final_Project_Task_Planner/) made with HTML, CSS, JavaScript and Bootstrap.
 
